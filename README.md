@@ -135,6 +135,7 @@ That's all bot connected
 --------
 
 <h4 align="center">6. Hugging Face</h4>
+
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
@@ -148,7 +149,7 @@ That's all bot connected
 
 <h3 align="center"> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy SubZero On Hugging Face For Free !*
+*❄️ Deploy ShabanSobxMd² On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
@@ -180,14 +181,6 @@ That's all bot connected
 </details>
 
 --------------
-
-
-<h4 align="center">7. Replit</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-
  --------
  <h4 align="center">8. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -248,7 +241,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
 
 ***
 
@@ -273,12 +266,12 @@ Stay connected with the latest updates and community by joining our official Wha
 
 ### Thank You Dear
 
-> DEVELOPER OF SUBZERO-MD 
-- [Mr Frank ](https://github.com/mrfrank-ofc)
+> DEVELOPER OF SHABAN-SOBX-MD² 
+- [Mr Shaban ](https://github.com/MRSHABAN40)
 - Creater and Owner Of SUBZERO-MD
 
-> SUBZERO-MD Helper
-- [Frank](https://github.com/efkidgamerdev)
+> SHABAN-SOBX-MD Helper
+- [Misbha](https://github.com/misbha37)
 - For helping in bot plugin files.
 ---
 
