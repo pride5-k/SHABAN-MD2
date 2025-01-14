@@ -21,16 +21,16 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ---
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc">
-    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SUBZERO-MD-+MultiDevice;Developed+by+Mr+Frank;Give+star+and+fork+this+Repo+bro+🌟" alt="mrfrankReadme">
+  <a href="https://github.com/MRSHABAN40">
+    <img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=SHABAN-SOBX-MD²-+MultiDevice;Developed+by+Mr+Shaban;Give+star+and+fork+this+Repo+bro+🌟" alt="mrshabanReadme">
   </a>
 </p>
 
 --- 
 
-<a><img src='https://i.ibb.co/fSP7Yr2/mrfrankofc.jpg'/></a>
+<a><img src='https://cdn.ironman.my.id/i/ccl6pv.jpg'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://cdn.ironman.my.id/i/ccl6pv.gif'/></a>
 
 ***
 
