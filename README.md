@@ -268,9 +268,9 @@ Stay connected with the latest updates and community by joining our official Wha
 
 > DEVELOPER OF SHABAN-SOBX-MD² 
 - [Mr Shaban ](https://github.com/MRSHABAN40)
-- Creater and Owner Of SUBZERO-MD
+- Creater and Owner Of SHABAN-SOBX-MD²
 
-> SHABAN-SOBX-MD Helper
+> SHABAN-SOBX-MD² Helper
 - [Misbha](https://github.com/misbha37)
 - For helping in bot plugin files.
 ---
