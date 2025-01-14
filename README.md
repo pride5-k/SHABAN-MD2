@@ -35,25 +35,25 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 ***
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Frank-397604.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/MRSHABAN40"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Shaban-397604.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/0029VazjYjoDDmFZTZ9Ech3O)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SUBZERO-MD}/count.svg" alt="mrfrank-ofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mrfrank-ofc}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{SHABAN-SOBX-MD²}/count.svg" alt="MRSHABAN40 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MRSHABAN40}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/mrfrank-ofc/SUBZERO-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SHABAN-SOBX-MD&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/mrfrank-ofc/SUBZERO-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -63,32 +63,13 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/mrfrank-ofc/SUBZERO-MD/fork"><img title="SUBZERO-MD" src="https://img.shields.io/badge/FORK-SUBZERO-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/fork"><img title="SHABAN-SOBX-MD" src="https://img.shields.io/badge/FORK-SHABAN-MDh?color=blue&style=for-the-badge&logo=stackshare"></a>
   
-### 2. Get Session ID 
-
-You will need a session ID to run the SUBZERO-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
-
 > **1️⃣Pair Code (Session ID)**
 
 <a href='https://tinyurl.com/subzero-md-session-id' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
-<br> 
-
-> **2️⃣Pair Code (Session ID)**
-
-<a href='https://ultra-subzero-md.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
-
-> **3️⃣Pair Code (Session ID)**
-
-<a href='https://subzeropq.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-cyan?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
-<br> 
 
 ---
 
