@@ -1,12 +1,12 @@
 {
-  "name": "SHABAN-SOBX-MD",
-  "version": "1.0.4",
+  "name": "SHABAN-MD",
+  "version": "1.0.5",
   "description": "THE BEST BOT IN THE UNIVERSE",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-SOBX-MD",
-    "stop": "pm2 stop SHABAN-SOBX-MD",
-    "restart": "pm2 restart SHABAN-SOBX-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
+    "stop": "pm2 stop SHABAN-MD",
+    "restart": "pm2 restart SHABAN-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",

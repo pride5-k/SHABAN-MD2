@@ -25,16 +25,16 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923059395959",
 // Set Owner Name
 
-OWNER_NAME: process.env.OWNER_NAME || "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧",
+OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ sʜᴀʙᴀɴ",
 // Set Footer
 
-DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ SʜᴀʙᴀɴSᴏʙxMD*",
 // add bot owner name   
  
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
 // add img for alive msg
 
-LIVE_MSG: process.env.LIVE_MSG || "> [🎐] SʜᴀʙᴀN SᴏʙX MD ɪs ᴏɴʟɪɴᴇ*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> [🎐] SʜᴀʙᴀɴSᴏʙxMD ɪs ᴏɴʟɪɴᴇ*⚡",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
