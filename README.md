@@ -73,7 +73,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ---
 
-<h2 align="center">SubZero Deployment Options</h2>
+<h2 align="center">SHABAN-SOBX-MD² Deployment Options</h2>
 
 ---
 
@@ -82,7 +82,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/mrfrank-ofc/SUBZERO-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/misbha37/SHABAN-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
@@ -111,16 +111,13 @@ You will see a dashboard of bots listed
 
 
 Click next , next
-Until you see SUBZERO MD
+Until you see SHABAN SOBX MD
 Then click on it
 
 You will be asked to fill in some stuffs like your session Id , and other stuffs on how you want your bot to be ( bot settings ) , it's not hard I added examples
 
 
 Get session I'd here:
-
-https://tinyurl.com/subzero-md-session-id
-
 After you're done filling it
 Click deploy button 
 
@@ -130,40 +127,18 @@ It will show
 
 That's all bot connected
 
-`MR FRANK OFC`</h6>
+`MR SHABAN`</h6>
 </details>
 
 --------------
 
-
-<h4 align="center">3. Koyeb</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-<p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=mrfrank-ofc/SUBZERO-MD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-
------
-<h4 align="center">4. Railway</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-
------
-
-<h4 align="center">5. Render</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
 --------
 
 <h4 align="center">6. Hugging Face</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+<a badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
 
 <details>
   
