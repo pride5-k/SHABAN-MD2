@@ -67,7 +67,7 @@ Start by forking this repository to your own GitHub account. Click the button be
   
 > **1️⃣Pair Code (Session ID)**
 
-<a href='https://panelpair-shaban-sobx-md-bd4012b5778a.herokuapp.com/' target="_blank">
+<a href='https://panel-pair-044f81c02acf.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
