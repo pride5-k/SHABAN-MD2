@@ -73,19 +73,6 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ---
 
-<h2 align="center">SHABAN-SOBX-MD² Deployment Options</h2>
-
----
-
-<h4 align="center">1. Heroku</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
-
-<p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/misbha37/SHABAN-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-
-----------
-
 <h4 align="center">2. TalkDrove Free</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
@@ -134,51 +121,6 @@ That's all bot connected
 
 --------
 
-<h4 align="center">6. Hugging Face</h4>
-
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="center">
-<a badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
-
-<details>
-  
-<b><strong><summary align="center" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-
-<h3 align="center"> HOW TO DEPLOY ON HUGGING FACE</h3>
-<h6 align-"center">
-*❄️ Deploy ShabanSobxMd² On Hugging Face For Free !*
-
-`Specs :`
-- v2 CPU
-- 16GB RAM
-
-> `Steps to deploy`
-
-`Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
-
-`Step 2`
-1. Go to https://huggingface.co/spaces/mrfrank-ofc/SUBZERO-MD
-
-2. Tap on *three dots* _(as shown in image)_
-
-3. Tap on *duplicate space* _(as shown in image)_
-
-`Step 3`
-1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
-
-2. Tap on *duplicate space shown below*
-
-```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
-
-> CREDITS PIKABOTZ🎐
-
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
-
-</details>
 
 --------------
  --------
